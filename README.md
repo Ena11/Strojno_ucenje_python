@@ -7,5 +7,6 @@ Implementirano je i prepoznavanje slika, koristeći InceptionV3 model iz TensorF
 Treće implementirano rješenje je web scraping, koristeći BeautifulSoup i requests za prikupljanje informacija o bolestima i štetnicima biljaka s različitih izvora na webu. 
 # O korištenju
 Program je pisan koristeći Google Collab notebook, u slučaju pokretanja u npr. PyCharm-u potrebno je najprije instalirati pakete.
-# O programu
+# Pojedinosti
 Za pokretanje dijela "prepoznavanje slika" potrebno je programu dati određene slike za prepoznavanje (a koje su najprije spremljene na računalo, stoga se path slike može razlikovati)
+Kako bi se vidio rezultati web scraping-a, potrebno je preuzeti .csv datoteku nakon pokretanja koda
